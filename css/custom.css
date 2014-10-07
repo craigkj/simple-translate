@@ -1,0 +1,32 @@
+
+h2{
+    font-size: 24px;
+}
+
+h3{
+    font-size: 18px;
+}
+
+.code, .code-examples li{
+    font-family: monospace;
+    font-weight: bold;
+}
+
+dl {
+    margin-bottom:20px;
+}
+
+dl dt {
+    float:left;
+    font-weight:bold;
+    margin: 0 10px;
+    width:100px;
+}
+
+dl dd {
+    margin:2px 0;
+}
+
+p{
+    margin: 5px 10px;
+}
