@@ -2,7 +2,7 @@
 
 Made to provide a very lightweight way to perform translations in both php and javascript.
 
-This has been pulled from a larger piece of work that I carried out to be made somewhat standalone so includes some redundancy that has been left in place to illustrate how it could be used as part of a large project.
+This has been pulled from a larger piece of work and made somewhat standalone. Includes some redundancy that has been left in place to illustrate how it could be used as part of a large project.
 
 Examples of its use can be found in translate/translationExamples.php . Its really very simple to use.
 
